@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {CATEGORIES} from './category-values';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'star-wars';
+  categories=CATEGORIES;
 }
