@@ -1,10 +1,10 @@
 import { Category } from './category';
 
 export const CATEGORIES: Category[] = [
-  { name: 'People' },
-  { name: 'Planets' },
-  { name: 'Films' },
-  { name: 'Species' },
-  { name: 'Vehicles' },
-  { name: 'Starships' }
+  { name: 'people' },
+  { name: 'planets' },
+  { name: 'films' },
+  { name: 'species' },
+  { name: 'vehicles' },
+  { name: 'starships' }
 ];
